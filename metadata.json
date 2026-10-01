@@ -1,0 +1,8 @@
+{
+  "name": "Aman Safar",
+  "description": "Your Safety, One Tap Away — women's safety, trusted emergency contacts, emergency SOS alerts, live location sharing, and safety check-ins.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
